@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <string.h>
-//made by Yassir Rchi & Amine Zbitou
+
 
 
 //les structures
@@ -540,7 +540,7 @@ if(LP!=NULL){
         }
 
         }
-//fin fx chercherµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµµ
+//fin fx chercherë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„ë„
 void ajouterunhopital(listh* LH){
 
     listh nouveau=NULL;
